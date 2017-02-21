@@ -1,0 +1,1 @@
+<?php/** * 基础控制器 * Created by PhpStorm. * User: wayne * Date: 2016/11/16 * Time: 10:16 */namespace frontend\controllers;use yii\web\Controller;class BaseController extends Controller {}

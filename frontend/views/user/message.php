@@ -1,0 +1,1 @@
+<?php foreach ($messages as $message): ?>    <p><?= $message['content']?><span>&nbsp;&nbsp;&nbsp;&nbsp;<?= $message['time']?></span></p>    <hr><?php endforeach;?>
